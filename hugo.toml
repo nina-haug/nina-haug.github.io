@@ -1,0 +1,61 @@
+## Basic Configuration
+
+baseurl = "example.com"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Nina Haug"
+title = "Nina Haug"
+
+theme = "hugo-goa"
+
+## Site Settings
+[params]
+author = "Nina Haug"
+intro = "Experienced Data Scientist"
+description = "Passionate about medical real world data, causal inference and machine learning"
+authorimage = "NinaHaug.png"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+linkedin = "nina-haug-9b56b21aa"
+github = "nina-haug"
+orcid = "0000-0002-5130-9193"
+# email = "you@example.com"
+
+## Extras
+[params.extra]
+copyright = "© 2026. Nina Haug. All rights reserved." #[Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = false
+
+## Main Menu
+# [[menu.main]]
+# name = "posts"
+# weight = 100
+# identifier = "posts"
+# url = "posts/"
+[[menu.main]]
+name = "about"
+identifier = "about"
+weight = 200
+url = "about/"
+# [[menu.main]]
+# name = "projects"
+# identifier = "projects"
+# weight = 300
+# url = "projects/"

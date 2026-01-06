@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nina Haug</title>
+    <link>//localhost:40781/</link>
+    <description>Recent content on Nina Haug</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="//localhost:40781/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//localhost:40781/about/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>//localhost:40781/about/</guid>
+      <description>&lt;p&gt;I am a Senior Data Scientist with a strong background in applied mathematics and physics, specializing in the analysis of medical real world data. My current work focuses on oncology real world data, biostatistics and causal inference.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
