@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "example.com"
+baseurl = ""
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -24,8 +24,8 @@ dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
-keywords = "minimalist,blog,goa,hugo,developer"
+description = ""
+keywords = "Causal inference, Data Scientist, Biostatistics"
 
 ## Social Accounts
 [params.social]
