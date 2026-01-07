@@ -18,7 +18,7 @@ theme = "hugo-goa"
 [params]
 author = "Nina Haug"
 intro = "Experienced Data Scientist"
-description = "Passionate about medical real world data, causal inference and machine learning"
+description = "Passionate about medical data, causal inference and machine learning"
 authorimage = "NinaHaug.png"
 dateformat = "Jan 2, 2006"
 
@@ -32,6 +32,7 @@ keywords = "Causal inference, Data Scientist, Biostatistics"
 linkedin = "nina-haug-9b56b21aa"
 github = "nina-haug"
 orcid = "0000-0002-5130-9193"
+# googlescholar = "iZCB4IsAAAAJ&hl"
 # email = "you@example.com"
 
 ## Extras
